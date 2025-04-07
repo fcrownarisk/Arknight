@@ -1,5 +1,14 @@
 void time()
 { 
+  const ! = 1;
+  const @ = 2;
+  const # = 3;
+  const $ = 4;
+  const % = 5;
+  const ^ = 6;
+  const & = 7;
+  const * = 8;
+  const ( = 9;
   char t1 = "1234567";
   char t2 = "2345678";
   char t3 = "3456789";
