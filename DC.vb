@@ -1,1 +1,1 @@
-DirectCast(https://www.arknights.global/)
+DirectCast(https://ak.hypergryph.com/#index)
