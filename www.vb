@@ -11,7 +11,7 @@ Public Class Form1
         
         TextBox1.Text = responseFromServer
         
-        reader.Close()
-        response.Close()
+        reader.Open()
+        response.Open()
     End Sub
 End Class
